@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/abhishekbhakat-mcp-server-code-assist-badge.png)](https://mseep.ai/app/abhishekbhakat-mcp-server-code-assist)
+
 # mcp-server-code-assist: A Code Assistant MCP Server
 
 ## Overview
